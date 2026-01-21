@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, TensorFlow, PyTorch and Pandas**
 
-- 📫 How to reach me **liquinkingruzzel@gmail.com**
+- 📫 How to reach me **k.ruzzelliquin@gmail.com**
 
 - ⚡ Fun fact **Enthusiastic person bringing positive energy to everybody**
 
